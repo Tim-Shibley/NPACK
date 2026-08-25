@@ -22,7 +22,8 @@ install.packages(c("shiny", "shinyjs", "here", "jsonlite", "nhanesA",
                    "nhanesdata", "dplyr", "survey", "ggplot2", "gWQS", 
                    "qgcomp", "bkmr", "bkmrhat", "future", "future.apply"))
 
-This installs the required packages for NPACK. 
+This installs the required packages for NPACK. It may take up to 10-15 minutes. 
+If prompted to restart RStudio, click yes. 
 
 Then navigate to open a project in the top ribbon and select nhanes-gui.Rproj 
 
